@@ -1,0 +1,12 @@
+{
+  "name": "@lodestart/common",
+  "version": "1.0.0",
+  "private": "true",
+  "license": "MIT",
+  "dependencies": {
+    "@lodestar/light-client": "^1.17.0"
+  },
+  "@parcel/resolver-default": {
+    "packageExports": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "lodestart",
+  "version": "1.0.0",
+  "type": "module",
+  "workspaces": [
+    "packages/common",
+    "packages/parcel"
+  ]
+}

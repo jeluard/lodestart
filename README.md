@@ -1,0 +1,1 @@
+A repository helping keep track of [lodestar](https://github.com/ChainSafe/lodestar/) [light-client](https://github.com/ChainSafe/lodestar/tree/unstable/packages/light-client) support in various frameworks.
